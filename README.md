@@ -30,24 +30,34 @@
 ![6-Register](https://github.com/user-attachments/assets/ba72d535-abbe-47b8-9b9d-8f7bbaffcca1)
 
 
-<h2> Task 7: <i>Login User</i> </h2>
+<h2> Task 7: <i>Login As Registered User</i> </h2>
 
 ![7-login](https://github.com/user-attachments/assets/323477fa-1890-45a0-9790-283c089a1c79)
 
 
-<h2> Task 8: <i>Add User Book Review</i> </h2>
+<h2> Task 8: <i>Add or Modify Book Review</i> </h2>
 
 ![8-reviewadded](https://github.com/user-attachments/assets/8c036d94-6c5f-46c0-9aa8-f3a569af20ba)
 
 
-<h2> Task 9: <i>Delete User Book Review</i> </h2>
+<h2> Task 9: <i>Delete Specific User Book Review</i> </h2>
 
 ![9-deletereview](https://github.com/user-attachments/assets/52bfbf9d-2def-4ab5-bea3-54f0d4ed8124)
 
 
-<h2> Task 10 - 13: <i>Async/Await Promises via </i> </h2>
+<h2> Task 10 - 13: <i>Use Async/Await or Promises with Axios in Node.js </i> </h2>
+<h3>Task 10: <i>Get All Books using Async Callback Function</i></h3>
 
 ![task10](https://github.com/user-attachments/assets/eb97fdf0-26dc-4be4-9820-7d4016f25feb)
+
+<h3>Task 11: <i>Search by ISBN – Using Promises</i></h3>
+
 ![task11](https://github.com/user-attachments/assets/71bb5808-b51b-45e5-898a-63c0287a963a)
+
+<h3>Task 12: <i>Search By Author</i></h3>
+
 ![task12](https://github.com/user-attachments/assets/e74b09cf-f6de-4d7c-96be-a4cd67799954)
+
+<h3>Task 13: <i>Search By Title</i></h3>
+
 ![task13](https://github.com/user-attachments/assets/a57ce173-178c-41d2-a268-85069ab9b1fb)
